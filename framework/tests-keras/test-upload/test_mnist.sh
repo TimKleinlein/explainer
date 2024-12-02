@@ -1,0 +1,1 @@
+python ./upload.py ./../test-model/mnist-model/cnn

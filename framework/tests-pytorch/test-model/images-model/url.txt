@@ -1,0 +1,5 @@
+# Pytorch
+https://download.pytorch.org/models/resnet152-f82ba261.pth
+
+# Images
+https://github.com/EliSchwartz/imagenet-sample-images
